@@ -1,2 +1,0 @@
-# stunning-fortnight
-Nlp basics
