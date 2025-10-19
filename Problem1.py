@@ -1,3 +1,6 @@
+#Topic 1: Text Preprocessing & Tokenization. 
+#Below are starter + intermediate questions, followed by answers and explanations. 
+# Work through them, and I’ll also point out common pitfalls and variations.
 #A. Given a paragraph string, write Python code to:
 
 #Lowercase
